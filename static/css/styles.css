@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1436491865332-7a61a109cc05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+a {
+  color: #f1f9f9;
+}
+
+a:hover {
+  color: #f0f0f0;
+}
+
+.card {
+  background-color: rgb(43, 40, 40);
+  border-radius: 20px;
+  color: white;
+}
